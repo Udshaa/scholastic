@@ -1,0 +1,2 @@
+# scholastic
+AI For Scholastic
